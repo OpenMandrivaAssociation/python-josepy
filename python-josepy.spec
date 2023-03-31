@@ -1,6 +1,6 @@
 Name:		python-josepy
 Version:	1.13.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/j/josepy/josepy-%{version}.tar.gz
 Summary:	JOSE protocol implementation in Python
 URL:		https://pypi.org/project/josepy/
